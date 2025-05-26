@@ -1,0 +1,42 @@
+2025-05-23 12:25:08 - INFO - 
+--- Generating visualizations for: HybridCNNTransformer ---
+2025-05-23 12:25:09 - INFO - Saved confusion matrix for HybridCNNTransformer to logs/visualizations/confusion_matrix_HybridCNNTransformer.png
+2025-05-23 12:25:10 - INFO - Saved ROC curve for HybridCNNTransformer to logs/visualizations/roc_curve_HybridCNNTransformer.png
+2025-05-23 12:25:11 - INFO - Saved training curves for HybridCNNTransformer to logs/visualizations/training_curves_HybridCNNTransformer.png
+2025-05-23 12:25:11 - INFO - --- Standard visualizations complete for: HybridCNNTransformer ---
+2025-05-23 12:25:11 - INFO - XAI plots should be generated via xai/generate_xai_eegpt.py for NMT-EEGPT models.
+2025-05-23 12:25:11 - INFO - 
+--- Generating visualizations for: CTNet ---
+2025-05-23 12:25:11 - INFO - Saved confusion matrix for CTNet to logs/visualizations/confusion_matrix_CTNet.png
+2025-05-23 12:25:11 - INFO - Saved ROC curve for CTNet to logs/visualizations/roc_curve_CTNet.png
+2025-05-23 12:25:12 - INFO - Saved training curves for CTNet to logs/visualizations/training_curves_CTNet.png
+2025-05-23 12:25:12 - INFO - --- Standard visualizations complete for: CTNet ---
+2025-05-23 12:25:12 - INFO - XAI plots should be generated via xai/generate_xai_eegpt.py for NMT-EEGPT models.
+2025-05-23 12:25:12 - INFO - 
+--- Generating visualizations for: EEGConformer ---
+2025-05-23 12:25:12 - INFO - Saved confusion matrix for EEGConformer to logs/visualizations/confusion_matrix_EEGConformer.png
+2025-05-23 12:25:12 - INFO - Saved ROC curve for EEGConformer to logs/visualizations/roc_curve_EEGConformer.png
+2025-05-23 12:25:13 - INFO - Saved training curves for EEGConformer to logs/visualizations/training_curves_EEGConformer.png
+2025-05-23 12:25:13 - INFO - --- Standard visualizations complete for: EEGConformer ---
+2025-05-23 12:25:13 - INFO - XAI plots should be generated via xai/generate_xai_eegpt.py for NMT-EEGPT models.
+2025-05-23 12:31:32 - INFO - 
+--- Generating visualizations for: HybridCNNTransformer ---
+2025-05-23 12:31:33 - INFO - Saved confusion matrix for HybridCNNTransformer to logs/visualizations/confusion_matrix_HybridCNNTransformer.png
+2025-05-23 12:31:33 - INFO - Saved ROC curve for HybridCNNTransformer to logs/visualizations/roc_curve_HybridCNNTransformer.png
+2025-05-23 12:31:34 - INFO - Saved training curves for HybridCNNTransformer to logs/visualizations/training_curves_HybridCNNTransformer.png
+2025-05-23 12:31:34 - INFO - --- Standard visualizations complete for: HybridCNNTransformer ---
+2025-05-23 12:31:34 - INFO - XAI plots should be generated via xai/generate_xai_eegpt.py for NMT-EEGPT models.
+2025-05-23 12:31:34 - INFO - 
+--- Generating visualizations for: CTNet ---
+2025-05-23 12:31:34 - INFO - Saved confusion matrix for CTNet to logs/visualizations/confusion_matrix_CTNet.png
+2025-05-23 12:31:34 - INFO - Saved ROC curve for CTNet to logs/visualizations/roc_curve_CTNet.png
+2025-05-23 12:31:35 - INFO - Saved training curves for CTNet to logs/visualizations/training_curves_CTNet.png
+2025-05-23 12:31:35 - INFO - --- Standard visualizations complete for: CTNet ---
+2025-05-23 12:31:35 - INFO - XAI plots should be generated via xai/generate_xai_eegpt.py for NMT-EEGPT models.
+2025-05-23 12:31:35 - INFO - 
+--- Generating visualizations for: EEGConformer ---
+2025-05-23 12:31:36 - INFO - Saved confusion matrix for EEGConformer to logs/visualizations/confusion_matrix_EEGConformer.png
+2025-05-23 12:31:36 - INFO - Saved ROC curve for EEGConformer to logs/visualizations/roc_curve_EEGConformer.png
+2025-05-23 12:31:37 - INFO - Saved training curves for EEGConformer to logs/visualizations/training_curves_EEGConformer.png
+2025-05-23 12:31:37 - INFO - --- Standard visualizations complete for: EEGConformer ---
+2025-05-23 12:31:37 - INFO - XAI plots should be generated via xai/generate_xai_eegpt.py for NMT-EEGPT models.

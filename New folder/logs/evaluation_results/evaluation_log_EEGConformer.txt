@@ -1,0 +1,20 @@
+2025-05-23 12:18:28 - INFO - --- Starting Evaluation for: EEGConformer from models/saved_supervised/EEGConformer_best.pt ---
+2025-05-23 12:18:28 - INFO - Using device: cuda
+2025-05-23 12:18:28 - INFO - Loading EVALUATION dataset (NMT 'eval' split)...
+2025-05-23 12:18:28 - INFO - Evaluation segments: 29169
+2025-05-23 12:18:28 - INFO - Successfully loaded model weights from models/saved_supervised/EEGConformer_best.pt
+2025-05-23 12:18:28 - INFO - Evaluating model on the test set...
+2025-05-23 12:18:40 - INFO - --- Evaluation Metrics for EEGConformer ---
+2025-05-23 12:18:40 - INFO -   accuracy: 0.7648873804381364
+2025-05-23 12:18:40 - INFO -   balanced_accuracy: 0.7641854288836045
+2025-05-23 12:18:40 - INFO -   auc: 0.8533896911690755
+2025-05-23 12:18:40 - INFO -   f1_score: 0.75010931351115
+2025-05-23 12:18:40 - INFO -   precision: 0.7873479690966113
+2025-05-23 12:18:40 - INFO -   recall: 0.7162340825273119
+2025-05-23 12:18:40 - INFO -   confusion_matrix: 
+[[12018  2780]
+ [ 4078 10293]]
+2025-05-23 12:18:40 - INFO -   specificity: 0.8121367752398972
+2025-05-23 12:18:40 - INFO - Saved detailed metrics to logs/evaluation_results/evaluation_metrics_EEGConformer.json
+2025-05-23 12:18:40 - INFO - Saved predictions, labels, and probabilities for EEGConformer in logs/evaluation_results/
+2025-05-23 12:18:40 - INFO - --- Evaluation complete for EEGConformer ---

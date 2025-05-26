@@ -1,0 +1,243 @@
+2025-05-23 12:39:09 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 12:39:09 - INFO - Using device: cuda
+2025-05-23 12:39:09 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 12:39:10 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 12:39:10 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.41M
+2025-05-23 12:39:14 - INFO - No SSL checkpoint directory or checkpoints. Starting pretraining from scratch.
+2025-05-23 12:39:14 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 12:43:47 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 12:43:47 - INFO - Using device: cuda
+2025-05-23 12:43:47 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 12:43:48 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 12:43:48 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.41M
+2025-05-23 12:43:49 - INFO - No SSL checkpoint directory or checkpoints. Starting pretraining from scratch.
+2025-05-23 12:43:49 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 12:45:48 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 12:45:48 - INFO - Using device: cuda
+2025-05-23 12:45:48 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 12:45:49 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 12:45:49 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.41M
+2025-05-23 12:45:50 - INFO - Using torch.cuda.amp.GradScaler.
+2025-05-23 12:45:50 - INFO - Using OneCycleLR scheduler with 6014 effective steps per epoch.
+2025-05-23 12:45:50 - INFO - No SSL checkpoint directory or checkpoints. Starting pretraining from scratch.
+2025-05-23 12:45:50 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 12:47:51 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 12:47:51 - INFO - Using device: cuda
+2025-05-23 12:47:51 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 12:47:52 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 12:47:52 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.41M
+2025-05-23 12:47:53 - INFO - Using torch.cuda.amp.GradScaler.
+2025-05-23 12:47:53 - INFO - Using OneCycleLR scheduler with 6014 effective steps per epoch.
+2025-05-23 12:47:53 - INFO - No SSL checkpoint directory or checkpoints. Starting pretraining from scratch.
+2025-05-23 12:47:53 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 12:56:58 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 12:56:58 - INFO - Using device: cuda
+2025-05-23 12:56:58 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 12:56:59 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 12:56:59 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.41M
+2025-05-23 12:57:00 - INFO - Using torch.cuda.amp.GradScaler.
+2025-05-23 12:57:00 - INFO - Using OneCycleLR scheduler with 6014 effective steps per epoch.
+2025-05-23 12:57:00 - INFO - No SSL checkpoint directory/files. Starting pretraining from scratch.
+2025-05-23 12:57:00 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 13:02:27 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 13:02:27 - INFO - Using device: cuda
+2025-05-23 13:02:27 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 13:02:28 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 13:02:28 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.41M
+2025-05-23 13:02:29 - INFO - Using torch.cuda.amp.GradScaler.
+2025-05-23 13:02:29 - INFO - Using OneCycleLR scheduler with 6014 effective steps per epoch.
+2025-05-23 13:02:29 - INFO - No SSL checkpoint directory/files. Starting pretraining from scratch.
+2025-05-23 13:02:29 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 13:15:42 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 13:15:42 - INFO - Using device: cuda
+2025-05-23 13:15:42 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 13:15:42 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 13:15:43 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.33M
+2025-05-23 13:15:44 - INFO - Using torch.cuda.amp.GradScaler.
+2025-05-23 13:15:44 - INFO - Using OneCycleLR scheduler with 6014 effective steps per epoch.
+2025-05-23 13:15:44 - INFO - No SSL checkpoint directory/files. Starting pretraining from scratch.
+2025-05-23 13:15:44 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 13:25:00 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 13:25:00 - INFO - Using device: cuda
+2025-05-23 13:25:00 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 13:25:01 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 13:25:01 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.33M
+2025-05-23 13:25:02 - INFO - Using torch.cuda.amp.GradScaler.
+2025-05-23 13:25:02 - INFO - Using OneCycleLR scheduler with 6014 effective steps per epoch.
+2025-05-23 13:25:02 - INFO - No SSL checkpoint directory/files. Starting pretraining from scratch.
+2025-05-23 13:25:02 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 13:27:22 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 13:27:22 - INFO - Using device: cuda
+2025-05-23 13:27:22 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 13:27:23 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 13:27:23 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.33M
+2025-05-23 13:27:24 - INFO - Using torch.cuda.amp.GradScaler.
+2025-05-23 13:27:24 - INFO - Using OneCycleLR scheduler with 6014 effective steps per epoch.
+2025-05-23 13:27:24 - INFO - No SSL checkpoint directory/files. Starting pretraining from scratch.
+2025-05-23 13:27:24 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 13:29:50 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 13:29:50 - INFO - Using device: cuda
+2025-05-23 13:29:50 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 13:29:51 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 13:29:51 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.33M
+2025-05-23 13:33:57 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 13:33:57 - INFO - Using device: cuda
+2025-05-23 13:33:57 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 13:33:57 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 13:33:57 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.33M
+2025-05-23 13:33:58 - INFO - Using torch.amp.GradScaler(device='cuda').
+2025-05-23 13:33:58 - INFO - Using OneCycleLR scheduler with 6014 effective steps per epoch.
+2025-05-23 13:33:58 - INFO - No SSL checkpoint directory/files. Starting pretraining from scratch.
+2025-05-23 13:33:58 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 13:36:08 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 13:36:08 - INFO - Using device: cuda
+2025-05-23 13:36:08 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 13:36:09 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 13:36:09 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.33M
+2025-05-23 13:36:10 - INFO - Using torch.amp.GradScaler(device='cuda').
+2025-05-23 13:36:10 - INFO - Using OneCycleLR scheduler with 6014 effective steps per epoch.
+2025-05-23 13:36:10 - INFO - No SSL checkpoint directory/files. Starting pretraining from scratch.
+2025-05-23 13:36:10 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 13:40:00 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 13:40:00 - INFO - Using device: cuda
+2025-05-23 13:40:00 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 13:40:01 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 13:40:01 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.33M
+2025-05-23 13:40:02 - INFO - Using torch.amp.GradScaler(device='cuda').
+2025-05-23 13:40:02 - INFO - Using OneCycleLR scheduler with 6014 effective steps per epoch.
+2025-05-23 13:40:02 - INFO - No SSL checkpoint directory/files. Starting pretraining from scratch.
+2025-05-23 13:40:02 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 13:41:50 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 13:41:50 - INFO - Using device: cuda
+2025-05-23 13:41:50 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 13:41:51 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 13:41:51 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.33M
+2025-05-23 13:41:52 - INFO - Using torch.amp.GradScaler(device='cuda').
+2025-05-23 13:41:52 - INFO - Using OneCycleLR scheduler with 6014 effective steps per epoch.
+2025-05-23 13:41:52 - INFO - No SSL checkpoint directory/files. Starting pretraining from scratch.
+2025-05-23 13:41:52 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 13:44:16 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 13:44:16 - INFO - Using device: cuda
+2025-05-23 13:44:16 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 13:44:17 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 13:44:17 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.33M
+2025-05-23 13:44:18 - INFO - Using torch.amp.GradScaler(device='cuda').
+2025-05-23 13:44:18 - INFO - Using OneCycleLR scheduler with 6014 effective steps per epoch.
+2025-05-23 13:44:18 - INFO - No SSL checkpoint directory/files. Starting pretraining from scratch.
+2025-05-23 13:44:18 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 13:46:25 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 13:46:25 - INFO - Using device: cuda
+2025-05-23 13:46:25 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 13:46:26 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 13:46:26 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.33M
+2025-05-23 13:46:27 - INFO - Using torch.amp.GradScaler(device='cuda').
+2025-05-23 13:46:27 - INFO - Using OneCycleLR scheduler with 6014 effective steps per epoch.
+2025-05-23 13:46:27 - INFO - No SSL checkpoint directory/files. Starting pretraining from scratch.
+2025-05-23 13:46:27 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 13:49:47 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 13:49:47 - INFO - Using device: cuda
+2025-05-23 13:49:47 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 13:49:48 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 13:49:48 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.33M
+2025-05-23 13:49:49 - INFO - Using torch.cuda.amp.GradScaler for AMP.
+2025-05-23 13:49:49 - INFO - Using OneCycleLR scheduler with 6014 effective steps per epoch.
+2025-05-23 13:49:49 - INFO - No SSL checkpoint directory/files. Starting pretraining from scratch.
+2025-05-23 13:49:49 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 13:52:05 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 13:52:05 - INFO - Using device: cuda
+2025-05-23 13:52:05 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 13:52:05 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 13:52:05 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.33M
+2025-05-23 13:52:06 - INFO - Using torch.cuda.amp.GradScaler for AMP.
+2025-05-23 13:52:06 - INFO - Using OneCycleLR scheduler with 6014 effective steps per epoch.
+2025-05-23 13:52:06 - INFO - No SSL checkpoint directory/files. Starting pretraining from scratch.
+2025-05-23 13:52:06 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 13:56:51 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 13:56:51 - INFO - Using device: cuda
+2025-05-23 13:56:51 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 13:56:52 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 13:56:52 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.35M
+2025-05-23 13:56:53 - INFO - Using torch.cuda.amp.GradScaler for AMP.
+2025-05-23 13:56:53 - INFO - Using OneCycleLR scheduler with 6014 effective steps per epoch.
+2025-05-23 13:56:53 - INFO - No SSL checkpoint directory/files. Starting pretraining from scratch.
+2025-05-23 13:56:53 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 13:59:33 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 13:59:33 - INFO - Using device: cuda
+2025-05-23 13:59:33 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 13:59:34 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 13:59:34 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.35M
+2025-05-23 13:59:35 - INFO - Using torch.cuda.amp.GradScaler for AMP.
+2025-05-23 13:59:35 - INFO - Using OneCycleLR scheduler with 6014 effective steps per epoch.
+2025-05-23 13:59:35 - INFO - No SSL checkpoint directory/files. Starting pretraining from scratch.
+2025-05-23 13:59:35 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 16:13:52 - INFO - Epoch 1: Total Loss: 14.0126 | Align Loss: 5.9248 | Recon Loss: 8.0879 | LR: 2.13e-05 | Time: 8056.42s
+2025-05-23 16:43:47 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-23 16:43:47 - INFO - Using device: cuda
+2025-05-23 16:43:47 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-23 16:43:48 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-23 16:43:48 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.35M
+2025-05-23 16:43:49 - INFO - Using torch.cuda.amp.GradScaler for AMP.
+2025-05-23 16:43:49 - INFO - Using OneCycleLR scheduler with 6014 effective steps per epoch.
+2025-05-23 16:43:49 - INFO - No SSL checkpoint directory/files. Starting pretraining from scratch.
+2025-05-23 16:43:49 - INFO - Starting NMT-EEGPT pretraining loop from epoch 0...
+2025-05-23 17:08:50 - INFO - Epoch 1: Total Loss: 14.3986 | Align Loss: 6.3061 | Recon Loss: 8.0926 | LR: 2.13e-05 | Time: 1500.81s
+2025-05-23 17:33:55 - INFO - Epoch 2: Total Loss: 11.6516 | Align Loss: 3.6451 | Recon Loss: 8.0066 | LR: 2.52e-05 | Time: 1505.31s
+2025-05-23 18:04:11 - INFO - Epoch 3: Total Loss: 11.7382 | Align Loss: 3.7366 | Recon Loss: 8.0016 | LR: 3.17e-05 | Time: 1815.65s
+2025-05-23 18:29:21 - INFO - Epoch 4: Total Loss: 13.4347 | Align Loss: 5.4345 | Recon Loss: 8.0002 | LR: 4.07e-05 | Time: 1510.11s
+2025-05-23 18:55:55 - INFO - Epoch 5: Total Loss: 14.1928 | Align Loss: 6.1930 | Recon Loss: 7.9998 | LR: 5.22e-05 | Time: 1594.04s
+2025-05-23 19:24:34 - INFO - Epoch 6: Total Loss: 14.6538 | Align Loss: 6.6543 | Recon Loss: 7.9995 | LR: 6.58e-05 | Time: 1718.92s
+2025-05-23 19:51:05 - INFO - Epoch 7: Total Loss: 14.9384 | Align Loss: 6.9391 | Recon Loss: 7.9993 | LR: 8.16e-05 | Time: 1591.16s
+2025-05-23 20:16:59 - INFO - Epoch 8: Total Loss: 15.1798 | Align Loss: 7.1806 | Recon Loss: 7.9992 | LR: 9.94e-05 | Time: 1553.83s
+2025-05-23 20:45:09 - INFO - Epoch 9: Total Loss: 15.3806 | Align Loss: 7.3815 | Recon Loss: 7.9991 | LR: 1.19e-04 | Time: 1690.37s
+2025-05-23 21:12:42 - INFO - Epoch 10: Total Loss: 15.4855 | Align Loss: 7.4864 | Recon Loss: 7.9990 | LR: 1.40e-04 | Time: 1652.47s
+2025-05-23 21:39:19 - INFO - Epoch 11: Total Loss: 15.4808 | Align Loss: 7.4819 | Recon Loss: 7.9989 | LR: 1.62e-04 | Time: 1597.66s
+2025-05-23 22:06:40 - INFO - Epoch 12: Total Loss: 15.4463 | Align Loss: 7.4474 | Recon Loss: 7.9989 | LR: 1.86e-04 | Time: 1640.58s
+2025-05-23 22:33:46 - INFO - Epoch 13: Total Loss: 15.4323 | Align Loss: 7.4334 | Recon Loss: 7.9989 | LR: 2.10e-04 | Time: 1626.26s
+2025-05-23 23:02:00 - INFO - Epoch 14: Total Loss: 15.3853 | Align Loss: 7.3864 | Recon Loss: 7.9988 | LR: 2.35e-04 | Time: 1693.70s
+2025-05-23 23:28:54 - INFO - Epoch 15: Total Loss: 15.4185 | Align Loss: 7.4197 | Recon Loss: 7.9988 | LR: 2.60e-04 | Time: 1613.68s
+2025-05-23 23:56:49 - INFO - Epoch 16: Total Loss: 15.3232 | Align Loss: 7.3244 | Recon Loss: 7.9988 | LR: 2.85e-04 | Time: 1675.75s
+2025-05-24 00:23:50 - INFO - Epoch 17: Total Loss: 15.1928 | Align Loss: 7.1940 | Recon Loss: 7.9988 | LR: 3.10e-04 | Time: 1620.96s
+2025-05-24 00:50:46 - INFO - Epoch 18: Total Loss: 15.0566 | Align Loss: 7.0577 | Recon Loss: 7.9989 | LR: 3.34e-04 | Time: 1615.91s
+2025-05-24 01:17:55 - INFO - Epoch 19: Total Loss: 14.7241 | Align Loss: 6.7252 | Recon Loss: 7.9989 | LR: 3.58e-04 | Time: 1629.21s
+2025-05-24 01:44:46 - INFO - Epoch 20: Total Loss: 14.3382 | Align Loss: 6.3393 | Recon Loss: 7.9990 | LR: 3.80e-04 | Time: 1610.55s
+2025-05-24 02:11:49 - INFO - Epoch 21: Total Loss: 13.8261 | Align Loss: 5.8270 | Recon Loss: 7.9990 | LR: 4.01e-04 | Time: 1622.48s
+2025-05-24 02:38:36 - INFO - Epoch 22: Total Loss: 13.1745 | Align Loss: 5.1754 | Recon Loss: 7.9991 | LR: 4.21e-04 | Time: 1607.75s
+2025-05-24 03:05:14 - INFO - Epoch 23: Total Loss: 12.1700 | Align Loss: 4.1709 | Recon Loss: 7.9991 | LR: 4.38e-04 | Time: 1597.55s
+2025-05-24 03:32:15 - INFO - Epoch 24: Total Loss: 11.8833 | Align Loss: 3.8842 | Recon Loss: 7.9991 | LR: 4.54e-04 | Time: 1620.84s
+2025-05-24 03:59:48 - INFO - Epoch 25: Total Loss: 11.7444 | Align Loss: 3.7453 | Recon Loss: 7.9991 | LR: 4.68e-04 | Time: 1653.56s
+2025-05-24 04:27:07 - INFO - Epoch 26: Total Loss: 11.6372 | Align Loss: 3.6381 | Recon Loss: 7.9991 | LR: 4.79e-04 | Time: 1638.45s
+2025-05-24 04:54:59 - INFO - Epoch 27: Total Loss: 11.4853 | Align Loss: 3.4862 | Recon Loss: 7.9991 | LR: 4.88e-04 | Time: 1671.83s
+2025-05-24 05:22:09 - INFO - Epoch 28: Total Loss: 11.1550 | Align Loss: 3.1559 | Recon Loss: 7.9991 | LR: 4.95e-04 | Time: 1630.57s
+2025-05-24 05:49:18 - INFO - Epoch 29: Total Loss: 10.6147 | Align Loss: 2.6156 | Recon Loss: 7.9992 | LR: 4.99e-04 | Time: 1628.47s
+2025-05-24 06:15:57 - INFO - Epoch 30: Total Loss: 10.2326 | Align Loss: 2.2335 | Recon Loss: 7.9991 | LR: 5.00e-04 | Time: 1599.22s
+2025-05-24 06:43:19 - INFO - Epoch 31: Total Loss: 10.2613 | Align Loss: 2.2622 | Recon Loss: 7.9991 | LR: 5.00e-04 | Time: 1641.62s
+2025-05-24 07:10:58 - INFO - Epoch 32: Total Loss: 10.3017 | Align Loss: 2.3025 | Recon Loss: 7.9991 | LR: 4.99e-04 | Time: 1659.66s
+2025-05-24 07:38:24 - INFO - Epoch 33: Total Loss: 10.2502 | Align Loss: 2.2511 | Recon Loss: 7.9991 | LR: 4.98e-04 | Time: 1645.94s
+2025-05-24 08:05:14 - INFO - Epoch 34: Total Loss: 10.2642 | Align Loss: 2.2651 | Recon Loss: 7.9991 | LR: 4.96e-04 | Time: 1609.23s
+2025-05-24 08:32:22 - INFO - Epoch 35: Total Loss: 10.2213 | Align Loss: 2.2222 | Recon Loss: 7.9991 | LR: 4.94e-04 | Time: 1628.79s
+2025-05-24 09:00:14 - INFO - Epoch 36: Total Loss: 10.3030 | Align Loss: 2.3039 | Recon Loss: 7.9991 | LR: 4.91e-04 | Time: 1671.09s
+2025-05-24 09:27:31 - INFO - Epoch 37: Total Loss: 10.4728 | Align Loss: 2.4737 | Recon Loss: 7.9991 | LR: 4.88e-04 | Time: 1636.90s
+2025-05-24 09:55:22 - INFO - Epoch 38: Total Loss: 10.5619 | Align Loss: 2.5629 | Recon Loss: 7.9991 | LR: 4.84e-04 | Time: 1671.46s
+2025-05-24 10:21:57 - INFO - Epoch 39: Total Loss: 10.6751 | Align Loss: 2.6761 | Recon Loss: 7.9991 | LR: 4.80e-04 | Time: 1594.83s
+2025-05-24 10:49:08 - INFO - Epoch 40: Total Loss: 10.7579 | Align Loss: 2.7589 | Recon Loss: 7.9991 | LR: 4.75e-04 | Time: 1631.10s
+2025-05-24 11:15:32 - INFO - Epoch 41: Total Loss: 10.8224 | Align Loss: 2.8234 | Recon Loss: 7.9991 | LR: 4.70e-04 | Time: 1583.72s
+2025-05-24 11:40:51 - INFO - Epoch 42: Total Loss: 10.8299 | Align Loss: 2.8308 | Recon Loss: 7.9990 | LR: 4.65e-04 | Time: 1518.79s
+2025-05-24 12:05:37 - INFO - Epoch 43: Total Loss: 10.8749 | Align Loss: 2.8759 | Recon Loss: 7.9990 | LR: 4.59e-04 | Time: 1486.92s
+2025-05-24 12:30:59 - INFO - Epoch 44: Total Loss: 10.7837 | Align Loss: 2.7847 | Recon Loss: 7.9990 | LR: 4.52e-04 | Time: 1521.94s
+2025-05-26 09:00:17 - INFO - --- Initializing NMT-EEGPT Self-Supervised Pretraining ---
+2025-05-26 09:00:17 - INFO - Using device: cuda
+2025-05-26 09:00:17 - INFO - Loading SSL dataset (all NMT segments)...
+2025-05-26 09:00:19 - INFO - SSL Dataset loaded. Total 4s segments for pretraining: 384950
+2025-05-26 09:00:19 - INFO - NMT-EEGPT Pretrain Model initialized. Parameters: 4.35M
+2025-05-26 09:00:24 - INFO - Using torch.cuda.amp.GradScaler for AMP.
+2025-05-26 09:00:24 - INFO - Using OneCycleLR scheduler with 6014 effective steps per epoch.
+2025-05-26 09:00:24 - INFO - Attempting to load latest SSL pretrain checkpoint from models/saved_ssl_pretrain/NMT_EEGPT_Pretrain_checkpoints/...
+2025-05-26 09:00:24 - INFO - Resumed SSL pretraining from epoch 40. Monitor state restored.
+2025-05-26 09:00:24 - INFO - Starting NMT-EEGPT pretraining loop from epoch 40...
+2025-05-26 10:54:57 - INFO - Epoch 41: Total Loss: 10.7479 | Align Loss: 2.7493 | Recon Loss: 7.9985 | LR: 2.13e-05 | Time: 6872.76s
+2025-05-26 11:43:50 - INFO - Epoch 42: Total Loss: 10.7729 | Align Loss: 2.7744 | Recon Loss: 7.9985 | LR: 2.52e-05 | Time: 2932.59s
+2025-05-26 12:33:44 - INFO - Epoch 43: Total Loss: 10.7801 | Align Loss: 2.7817 | Recon Loss: 7.9984 | LR: 3.17e-05 | Time: 2994.52s
+2025-05-26 13:25:08 - INFO - Epoch 44: Total Loss: 10.7880 | Align Loss: 2.7896 | Recon Loss: 7.9984 | LR: 4.07e-05 | Time: 3084.18s
+2025-05-26 14:05:57 - INFO - Epoch 45: Total Loss: 10.7781 | Align Loss: 2.7797 | Recon Loss: 7.9984 | LR: 5.22e-05 | Time: 2448.56s
+2025-05-26 14:34:21 - INFO - Epoch 46: Total Loss: 10.7836 | Align Loss: 2.7851 | Recon Loss: 7.9985 | LR: 6.58e-05 | Time: 1702.30s
+2025-05-26 15:21:03 - INFO - Epoch 47: Total Loss: 10.7901 | Align Loss: 2.7916 | Recon Loss: 7.9985 | LR: 8.16e-05 | Time: 2802.37s

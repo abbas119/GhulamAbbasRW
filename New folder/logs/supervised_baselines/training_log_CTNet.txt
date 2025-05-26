@@ -1,0 +1,61 @@
+2025-05-22 16:40:57 - INFO - --- Initializing Supervised Training for: CTNet ---
+2025-05-22 16:40:57 - INFO - Using device: cuda
+2025-05-22 16:40:57 - INFO - Loading training dataset...
+2025-05-22 16:40:58 - INFO - Loading validation dataset...
+2025-05-22 16:40:58 - INFO - Train segments: 355781, Validation segments: 29169
+2025-05-22 16:40:58 - INFO - Model: CTNet initialized. Parameters: 0.02M
+2025-05-22 16:40:58 - INFO - Using weighted CrossEntropyLoss with weights: [1.0, 4.0]
+2025-05-22 16:40:58 - INFO - No checkpoint directory found or no checkpoints available. Starting training from epoch 0.
+2025-05-22 16:40:58 - INFO - Starting training loop from epoch 0...
+2025-05-22 16:46:28 - INFO - Epoch 1: Train Loss: 0.5832, Val Loss: 0.5485, Val Acc: 0.7132, Val F1: 0.6760, Val Recall: 0.6073, LR: 1.00e-04, Time: 329.99s
+2025-05-22 16:52:31 - INFO - Epoch 2: Train Loss: 0.5362, Val Loss: 0.5171, Val Acc: 0.7352, Val F1: 0.7144, Val Recall: 0.6721, LR: 1.00e-04, Time: 363.44s
+2025-05-22 16:58:52 - INFO - Epoch 3: Train Loss: 0.5148, Val Loss: 0.4991, Val Acc: 0.7339, Val F1: 0.6937, Val Recall: 0.6115, LR: 1.00e-04, Time: 380.65s
+2025-05-22 17:05:28 - INFO - Epoch 4: Train Loss: 0.4992, Val Loss: 0.5182, Val Acc: 0.7239, Val F1: 0.6860, Val Recall: 0.6123, LR: 1.00e-04, Time: 396.13s
+2025-05-22 17:11:27 - INFO - Epoch 5: Train Loss: 0.4881, Val Loss: 0.5277, Val Acc: 0.7222, Val F1: 0.6879, Val Recall: 0.6214, LR: 1.00e-04, Time: 359.08s
+2025-05-22 17:17:49 - INFO - Epoch 6: Train Loss: 0.4784, Val Loss: 0.5225, Val Acc: 0.7341, Val F1: 0.6939, Val Recall: 0.6118, LR: 1.00e-04, Time: 382.39s
+2025-05-22 17:23:19 - INFO - Epoch 7: Train Loss: 0.4720, Val Loss: 0.5565, Val Acc: 0.6991, Val F1: 0.6237, Val Recall: 0.5062, LR: 1.00e-04, Time: 329.32s
+2025-05-22 17:27:13 - INFO - Epoch 8: Train Loss: 0.4674, Val Loss: 0.5356, Val Acc: 0.7294, Val F1: 0.6891, Val Recall: 0.6086, LR: 1.00e-04, Time: 234.02s
+2025-05-22 17:30:23 - INFO - Epoch 9: Train Loss: 0.4611, Val Loss: 0.5155, Val Acc: 0.7528, Val F1: 0.7320, Val Recall: 0.6853, LR: 1.00e-04, Time: 190.45s
+2025-05-22 17:33:37 - INFO - Epoch 10: Train Loss: 0.4563, Val Loss: 0.5203, Val Acc: 0.7586, Val F1: 0.7361, Val Recall: 0.6834, LR: 1.00e-04, Time: 193.32s
+2025-05-22 17:36:51 - INFO - Epoch 11: Train Loss: 0.4539, Val Loss: 0.5290, Val Acc: 0.7566, Val F1: 0.7327, Val Recall: 0.6771, LR: 1.00e-04, Time: 194.45s
+2025-05-22 17:40:06 - INFO - Epoch 12: Train Loss: 0.4499, Val Loss: 0.5685, Val Acc: 0.7376, Val F1: 0.7076, Val Recall: 0.6444, LR: 1.00e-04, Time: 195.16s
+2025-05-22 17:43:18 - INFO - Epoch 13: Train Loss: 0.4458, Val Loss: 0.5455, Val Acc: 0.7439, Val F1: 0.7024, Val Recall: 0.6133, LR: 1.00e-04, Time: 191.73s
+2025-05-22 17:47:24 - INFO - Epoch 14: Train Loss: 0.4434, Val Loss: 0.5477, Val Acc: 0.7638, Val F1: 0.7402, Val Recall: 0.6831, LR: 1.00e-04, Time: 246.26s
+2025-05-22 17:51:21 - INFO - Epoch 15: Train Loss: 0.4410, Val Loss: 0.5265, Val Acc: 0.7633, Val F1: 0.7354, Val Recall: 0.6676, LR: 1.00e-04, Time: 237.16s
+2025-05-22 17:55:21 - INFO - Epoch 16: Train Loss: 0.4367, Val Loss: 0.5770, Val Acc: 0.7568, Val F1: 0.7259, Val Recall: 0.6539, LR: 1.00e-04, Time: 239.75s
+2025-05-22 17:59:43 - INFO - Epoch 17: Train Loss: 0.4342, Val Loss: 0.6013, Val Acc: 0.7574, Val F1: 0.7273, Val Recall: 0.6567, LR: 1.00e-04, Time: 262.10s
+2025-05-22 18:04:09 - INFO - Epoch 18: Train Loss: 0.4312, Val Loss: 0.5661, Val Acc: 0.7434, Val F1: 0.7134, Val Recall: 0.6482, LR: 1.00e-04, Time: 265.94s
+2025-05-22 18:08:17 - INFO - Epoch 19: Train Loss: 0.4286, Val Loss: 0.5607, Val Acc: 0.7645, Val F1: 0.7499, Val Recall: 0.7163, LR: 1.00e-04, Time: 247.82s
+2025-05-22 18:13:42 - INFO - Epoch 20: Train Loss: 0.4264, Val Loss: 0.5478, Val Acc: 0.7669, Val F1: 0.7455, Val Recall: 0.6929, LR: 1.00e-04, Time: 324.72s
+2025-05-22 18:18:25 - INFO - Epoch 21: Train Loss: 0.4249, Val Loss: 0.6089, Val Acc: 0.7540, Val F1: 0.7217, Val Recall: 0.6473, LR: 1.00e-04, Time: 282.99s
+2025-05-22 18:21:36 - INFO - Epoch 22: Train Loss: 0.4223, Val Loss: 0.5960, Val Acc: 0.7621, Val F1: 0.7419, Val Recall: 0.6937, LR: 1.00e-04, Time: 191.65s
+2025-05-22 18:24:49 - INFO - Epoch 23: Train Loss: 0.4205, Val Loss: 0.6045, Val Acc: 0.7548, Val F1: 0.7191, Val Recall: 0.6371, LR: 1.00e-04, Time: 192.21s
+2025-05-22 18:28:01 - INFO - Epoch 24: Train Loss: 0.4177, Val Loss: 0.6390, Val Acc: 0.7498, Val F1: 0.7135, Val Recall: 0.6322, LR: 1.00e-04, Time: 192.32s
+2025-05-22 18:31:12 - INFO - Epoch 25: Train Loss: 0.4155, Val Loss: 0.6171, Val Acc: 0.7577, Val F1: 0.7279, Val Recall: 0.6580, LR: 1.00e-04, Time: 190.74s
+2025-05-22 18:34:30 - INFO - Epoch 26: Train Loss: 0.4142, Val Loss: 0.6206, Val Acc: 0.7594, Val F1: 0.7263, Val Recall: 0.6478, LR: 1.00e-04, Time: 198.69s
+2025-05-22 18:37:45 - INFO - Epoch 27: Train Loss: 0.4130, Val Loss: 0.5922, Val Acc: 0.7592, Val F1: 0.7288, Val Recall: 0.6566, LR: 1.00e-04, Time: 194.75s
+2025-05-22 18:41:00 - INFO - Epoch 28: Train Loss: 0.4109, Val Loss: 0.6561, Val Acc: 0.7527, Val F1: 0.7233, Val Recall: 0.6560, LR: 1.00e-04, Time: 194.73s
+2025-05-22 18:44:11 - INFO - Epoch 29: Train Loss: 0.4101, Val Loss: 0.6316, Val Acc: 0.7462, Val F1: 0.7135, Val Recall: 0.6414, LR: 1.00e-04, Time: 191.59s
+2025-05-22 18:47:38 - INFO - Epoch 30: Train Loss: 0.4085, Val Loss: 0.6399, Val Acc: 0.7599, Val F1: 0.7234, Val Recall: 0.6375, LR: 1.00e-04, Time: 206.63s
+2025-05-22 18:51:32 - INFO - Epoch 31: Train Loss: 0.4014, Val Loss: 0.6370, Val Acc: 0.7522, Val F1: 0.7170, Val Recall: 0.6372, LR: 1.00e-05, Time: 234.13s
+2025-05-22 18:54:56 - INFO - Epoch 32: Train Loss: 0.4000, Val Loss: 0.6374, Val Acc: 0.7606, Val F1: 0.7278, Val Recall: 0.6498, LR: 1.00e-05, Time: 203.54s
+2025-05-22 18:58:09 - INFO - Epoch 33: Train Loss: 0.4012, Val Loss: 0.6576, Val Acc: 0.7543, Val F1: 0.7208, Val Recall: 0.6438, LR: 1.00e-05, Time: 193.71s
+2025-05-22 19:01:25 - INFO - Epoch 34: Train Loss: 0.3987, Val Loss: 0.6431, Val Acc: 0.7551, Val F1: 0.7231, Val Recall: 0.6490, LR: 1.00e-05, Time: 195.31s
+2025-05-22 19:05:28 - INFO - Epoch 35: Train Loss: 0.3991, Val Loss: 0.6490, Val Acc: 0.7516, Val F1: 0.7150, Val Recall: 0.6325, LR: 1.00e-05, Time: 243.25s
+2025-05-22 19:09:58 - INFO - Epoch 36: Train Loss: 0.3991, Val Loss: 0.6521, Val Acc: 0.7570, Val F1: 0.7267, Val Recall: 0.6558, LR: 1.00e-05, Time: 269.96s
+2025-05-22 19:15:08 - INFO - Epoch 37: Train Loss: 0.3992, Val Loss: 0.6469, Val Acc: 0.7552, Val F1: 0.7189, Val Recall: 0.6356, LR: 1.00e-05, Time: 309.86s
+2025-05-22 19:20:03 - INFO - Epoch 38: Train Loss: 0.3990, Val Loss: 0.6251, Val Acc: 0.7555, Val F1: 0.7308, Val Recall: 0.6735, LR: 1.00e-05, Time: 294.85s
+2025-05-22 19:23:38 - INFO - Epoch 39: Train Loss: 0.3989, Val Loss: 0.6476, Val Acc: 0.7551, Val F1: 0.7218, Val Recall: 0.6448, LR: 1.00e-05, Time: 215.60s
+2025-05-22 19:26:49 - INFO - Epoch 40: Train Loss: 0.3972, Val Loss: 0.6544, Val Acc: 0.7564, Val F1: 0.7265, Val Recall: 0.6567, LR: 1.00e-05, Time: 190.83s
+2025-05-22 19:30:01 - INFO - Epoch 41: Train Loss: 0.3971, Val Loss: 0.6433, Val Acc: 0.7540, Val F1: 0.7215, Val Recall: 0.6469, LR: 1.00e-05, Time: 192.41s
+2025-05-22 19:33:11 - INFO - Epoch 42: Train Loss: 0.3967, Val Loss: 0.6470, Val Acc: 0.7502, Val F1: 0.7188, Val Recall: 0.6479, LR: 1.00e-06, Time: 189.86s
+2025-05-22 19:36:28 - INFO - Epoch 43: Train Loss: 0.3967, Val Loss: 0.6403, Val Acc: 0.7538, Val F1: 0.7241, Val Recall: 0.6556, LR: 1.00e-06, Time: 196.42s
+2025-05-22 19:39:52 - INFO - Epoch 44: Train Loss: 0.3971, Val Loss: 0.6581, Val Acc: 0.7522, Val F1: 0.7176, Val Recall: 0.6391, LR: 1.00e-06, Time: 204.17s
+2025-05-22 19:43:10 - INFO - Epoch 45: Train Loss: 0.3969, Val Loss: 0.6473, Val Acc: 0.7555, Val F1: 0.7265, Val Recall: 0.6592, LR: 1.00e-06, Time: 198.46s
+2025-05-22 19:46:28 - INFO - Epoch 46: Train Loss: 0.3971, Val Loss: 0.6716, Val Acc: 0.7533, Val F1: 0.7157, Val Recall: 0.6304, LR: 1.00e-06, Time: 197.37s
+2025-05-22 19:50:15 - INFO - Epoch 47: Train Loss: 0.3967, Val Loss: 0.6633, Val Acc: 0.7518, Val F1: 0.7161, Val Recall: 0.6355, LR: 1.00e-06, Time: 227.22s
+2025-05-22 19:54:16 - INFO - Epoch 48: Train Loss: 0.3962, Val Loss: 0.6632, Val Acc: 0.7562, Val F1: 0.7213, Val Recall: 0.6405, LR: 1.00e-06, Time: 240.94s
+2025-05-22 19:58:27 - INFO - Epoch 49: Train Loss: 0.3963, Val Loss: 0.6527, Val Acc: 0.7544, Val F1: 0.7211, Val Recall: 0.6443, LR: 1.00e-06, Time: 250.90s
+2025-05-22 19:58:27 - INFO - Early stopping decision from monitor for epoch 49.
+2025-05-22 19:58:27 - INFO - --- Training finished for CTNet. Total time: 197m 29s ---
+2025-05-22 19:58:27 - INFO - Best model for CTNet saved at: models/saved_supervised/CTNet_best.pt (Achieved at Epoch: 19, val_f1_score: 0.7499)

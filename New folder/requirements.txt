@@ -1,0 +1,28 @@
+# NMT_EEGPT_Project/requirements.txt
+# Core ML/DL
+torch>=2.7.0 # Based on your +cu128, ensure compatibility
+torchvision>=0.22.0
+torchaudio>=2.7.0
+numpy>=1.26.4
+scikit-learn>=1.5.0 # You have 1.6.1
+pandas>=2.2.3
+einops # For Transformer implementations
+
+# EEG Specific
+mne==1.6.0 # Your list has 1.9.0. If issues arise with 1.9.0 with my code snippets, consider 1.6.0 or adapt code.
+resampy>=0.4.3
+
+# Plotting & Utilities
+matplotlib>=3.10.0 # You have 3.10.3
+seaborn>=0.13.2
+tqdm>=4.67.1
+# torchinfo>=1.8.0 # For model summaries (optional but useful)
+
+# XAI (Optional, install if using these methods)
+# shap>=0.40
+# lime>=0.2.0
+
+# Other common utilities you had (might not be strictly required by my code but good to have)
+# Jinja2
+# PyYAML
+# ... (add others from your pip list if you find them used or useful)
